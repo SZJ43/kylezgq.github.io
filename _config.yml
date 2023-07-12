@@ -1,14 +1,16 @@
-# Example Site settings
+title: Kyle Zhang by @kylezgq
+description: "I'm a curious kid obsessed with technology and startups."
+url: "https://kylezgq.github.io"
 
-#google_analytics: UA-NNNNNNNN-N
+header_pages:
+  - index.md
+  - about.md
+  - categories.md
+  - contacts.md
 
-#header_pages:
-#  - about.md
-#  - categories.md
-#  - contacts.md
+style: light
 
 
-#style: light
-
-plugins:
-  - jekyll-seo-tag
+# Build settings
+markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-console
