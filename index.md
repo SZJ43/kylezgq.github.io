@@ -1,7 +1,7 @@
 ---
 title: Kyle Zhang by @kylezgq
 layout: home
-permalink: kylezgq.github.io
+permalink: /
 ---
 
 # Welcome to Kyle's Blog
