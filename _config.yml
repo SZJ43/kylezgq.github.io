@@ -8,7 +8,9 @@ header_pages:
   - categories.md
   - contacts.md
 
-style: light
+style: dark # dark, light (default) or hacker
+listen_for_clients_preferred_style: true # false (default) or true
+
 
 
 # Build settings
