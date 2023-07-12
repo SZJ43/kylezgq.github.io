@@ -1,8 +1,6 @@
 ---
-**title**: 
-- about.md 
-- categories.md 
-- contacts.md
+title: 
+about.md  categories.md  contacts.md
 ---
 
 
