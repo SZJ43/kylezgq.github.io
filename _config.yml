@@ -1,16 +1,17 @@
-title: Kyle Zhang by @kylezgq
-description: "I'm a curious kid obsessed with technology and startups."
+# Example Site settings
 
+#google_analytics: UA-NNNNNNNN-N
 
-header_pages:
-  - index.md
-  - about.md
-  - categories.md
-  - contacts.md
-
-style: dark # dark, light (default) or hacker
-listen_for_clients_preferred_style: true # false (default) or true
+#header_pages:
+#  - index.md
+#  - about.md
+#  - categories.md
+#  - contacts.md
 
 
 
+#style: light # dark or light (default)
+#listen_for_clients_preferred_style: true # true or false (default)
 
+plugins:
+  - jekyll-seo-tag
