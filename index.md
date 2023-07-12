@@ -1,7 +1,7 @@
 ---
-title: about.md categories.md contacts.md
+title: /
 layout: home
-permalink: kylezgq.github.io
+permalink: /
 ---
 
 
