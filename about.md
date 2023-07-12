@@ -1,3 +1,8 @@
-WeChat ID: kylegzq
-Jike: @KyleCheung
-Twitter: @0xkylezhang
+---
+title: /about
+layout: page
+permalink: /about
+---
+
+
+
