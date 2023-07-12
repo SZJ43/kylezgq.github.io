@@ -1,5 +1,5 @@
 ---
-title: Kyle Zhang by @kylezgq
+title: /about.md /categories.md /contacts.md
 layout: home
 permalink: kylezgq.github.io
 ---
