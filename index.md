@@ -1,12 +1,11 @@
 ---
 title: /home
-layout: home
+layout: page
 permalink: /home
 ---
 
 
-# Welcome
-Welcome to my blog
+(readme.md)
 
 
 
