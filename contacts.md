@@ -1,6 +1,3 @@
-# [Kyle Zhang] (readme.md)
-
-
 ---
 title: /contacts
 layout: page
