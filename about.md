@@ -1,6 +1,3 @@
-# [Kyle Zhang] (readme.md)
-
-
 ---
 title: /about
 layout: page
