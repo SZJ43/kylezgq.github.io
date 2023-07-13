@@ -1,6 +1,8 @@
 title: "Kyle Zhang by @kylezgq"
 description: "I'm a curious kid obsessed with technology and startups."
 
+theme: jekyll-theme-console
+
 
 header_pages:
   - about.md
