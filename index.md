@@ -5,7 +5,6 @@ permalink: /home
 ---
 
 
-(readme.md)
 
 
 
