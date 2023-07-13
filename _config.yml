@@ -3,6 +3,7 @@ description: "I'm a curious kid obsessed with technology and startups."
 
 
 header_pages:
+  - index.md
   - about.md
   - categories.md
   - contacts.md
